@@ -7,12 +7,12 @@ import {getStorage} from 'firebase/storage'
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyAUyBjpyCYCFg-iGcNtZbJIoi8zfmXkG4w",
-  authDomain: "bear-docs.firebaseapp.com",
-  projectId: "bear-docs",
-  storageBucket: "bear-docs.appspot.com",
-  messagingSenderId: "29331808424",
-  appId: "1:29331808424:web:2b83de836e159a74fda29d"
+  apiKey: "your_api_key",
+  authDomain: "auth_domain",
+  projectId: "your_project_id",
+  storageBucket: "_your_storage_bucket",
+  messagingSenderId: "your_sender_id",
+  appId: "your_app_id"
 };
 
 // Initialize Firebase
